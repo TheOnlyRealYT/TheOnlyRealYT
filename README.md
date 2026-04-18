@@ -100,7 +100,7 @@ $ npm install react
 I'm passionate about sharing knowledge and helping others grow. Whether it's explaining a concept, writing tutorials, or mentoring — I'm always happy to help!
 
 - 💬 **Ask me about:** Python, Django, Flask, Web Development, or anything tech!
-- 📝 **I'm open to:** Writing tutorials, collaborating on projects, or just chatting about tech!
+- 📝 **I'm open to:** Internships, Writing tutorials, collaborating on projects, or just chatting about tech!
 
 ---
 
