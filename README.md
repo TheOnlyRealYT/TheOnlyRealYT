@@ -66,6 +66,7 @@ $ npm install react
 | ⚡ FastAPI | ██████░░░░ 60% | 🟡 In Progress |
 | 🐍 Django | ██████████ 100% | ✅ Learned |
 | 🌶️ Flask | ██████████ 100% | ✅ Learned |
+| 🎮 pygame | ██████████ 100% | ✅ Learned |
 
 ---
 
@@ -108,9 +109,8 @@ I'm passionate about sharing knowledge and helping others grow. Whether it's exp
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOnlyRealYT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-osama-b8a470350/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaosamaa12@gmail.com)
 
 </div>
 
