@@ -28,3 +28,56 @@ class HamzaOsama:
 
 me = HamzaOsama()
 me.say_hi()
+🚀 Tech Stack
+🐍 Backend
+Python
+Flask
+Django
+FastAPI
+
+🎨 Frontend
+HTML5
+CSS3
+JavaScript
+React
+Bootstrap
+TailwindCSS
+
+🛠️ Tools & Platforms
+Git
+GitHub
+VS Code
+Linux
+
+📚 Currently Learning
+bash
+$ npm install react
+$ pip install fastapi uvicorn
+Technology	Progress	Status
+⚛️ React	████████░░ 80%	🟡 In Progress
+⚡ FastAPI	██████░░░░ 60%	🟡 In Progress
+🐍 Django	██████████ 100%	✅ Learned
+🌶️ Flask	██████████ 100%	✅ Learned
+🏆 Projects
+Project	Description	Tech Stack	Link
+🔫 Emirates Shooting Range	Responsive website for Emirates Shooting Ranges Group	Django, Tailwind CSS	Visit
+🤖 Microsoft Points Macro	Automation macro for Microsoft reward points	Python, Tkinter	GitHub
+🎮 Stand For Justice	Custom JoJo Stand creator game	Game Dev	Itch.io
+📊 GitHub Stats
+
+
+🎓 I Love Teaching!
+"The best way to learn is to teach" — Frank Oppenheimer
+
+I'm passionate about sharing knowledge and helping others grow. Whether it's explaining a concept, writing tutorials, or mentoring — I'm always happy to help!
+
+💬 Ask me about: Python, Django, Flask, Web Development, or anything tech!
+📝 I'm open to: Writing tutorials, collaborating on projects, or just chatting about tech!
+🤝 Connect With Me
+GitHub
+LinkedIn
+Portfolio
+Email
+
+
+
