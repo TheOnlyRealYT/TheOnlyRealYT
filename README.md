@@ -17,7 +17,7 @@ class HamzaOsama:
     def __init__(self):
         self.name        = "Hamza Osama"
         self.role        = "Full-Stack Engineer"
-        self.location    = "UAE 🇦🇪"
+        self.location    = "Egypt"
         self.languages   = ["Python", "JavaScript", "HTML", "CSS"]
         self.backend     = ["Flask", "Django", "FastAPI (learning)"]
         self.frontend    = ["Bootstrap", "Tailwind CSS", "React (learning)"]
