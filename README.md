@@ -77,6 +77,7 @@ $ npm install react
 | 🔫 Emirates Shooting Range | Responsive website for Emirates Shooting Ranges Group | Django, Tailwind CSS | [Visit](https://emshoot.com) |
 | 🤖 Microsoft Points Macro | Automation macro for Microsoft reward points | Python, Tkinter | [GitHub](https://github.com/TheOnlyRealYT/Microsoft_Points_Macro) |
 | 🎮 Stand For Justice | Custom JoJo Stand creator game | Game Dev | [Itch.io](https://theonlyrealyt.itch.io/custom-jojo-stands) |
+| 🛒 Shoppe | Full stack Ecommerce Project | Django, React | [GitHub](https://github.com/TheOnlyRealYT/Ecommerce-Project) |
 
 ---
 
