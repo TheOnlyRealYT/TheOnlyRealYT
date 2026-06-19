@@ -63,7 +63,7 @@ $ npm install react
 | Technology | Progress | Status |
 |------------|----------|--------|
 | ⚛️ React | ████████░░ 80% | 🟡 In Progress |
-| ⚡ FastAPI | ██████░░░░ 60% | 🟡 In Progress |
+| ⚡ FastAPI | ██████████ 100% | ✅ Learned |
 | 🐍 Django | ██████████ 100% | ✅ Learned |
 | 🌶️ Flask | ██████████ 100% | ✅ Learned |
 | 🎮 pygame | ██████████ 100% | ✅ Learned |
@@ -78,6 +78,7 @@ $ npm install react
 | 🤖 Microsoft Points Macro | Automation macro for Microsoft reward points | Python, Tkinter | [GitHub](https://github.com/TheOnlyRealYT/Microsoft_Points_Macro) |
 | 🎮 Stand For Justice | Custom JoJo Stand creator game | Game Dev | [Itch.io](https://theonlyrealyt.itch.io/custom-jojo-stands) |
 | 🛒 Shoppe | Full stack Ecommerce Project | Django, React | [GitHub](https://github.com/TheOnlyRealYT/Ecommerce-Project) |
+| 💪 ZCULT | API for client tracking software for gym coach | FastAPI, MongoDB | [GitHub](https://github.com/TheOnlyRealYT/learning-fastAPI) |
 
 ---
 
