@@ -63,6 +63,8 @@ $ npm install react
 | Technology | Progress | Status |
 |------------|----------|--------|
 | ⚛️ React | ████████░░ 80% | 🟡 In Progress |
+| 🍂 MongoDB | ████████░░ 80% | 🟡 In Progress |
+| 🐘 PostgreSQL | ██████████ 100% | 🟡 In Progress |
 | ⚡ FastAPI | ██████████ 100% | ✅ Learned |
 | 🐍 Django | ██████████ 100% | ✅ Learned |
 | 🌶️ Flask | ██████████ 100% | ✅ Learned |
