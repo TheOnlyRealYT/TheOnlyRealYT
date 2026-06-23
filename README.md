@@ -64,7 +64,7 @@ $ npm install react
 |------------|----------|--------|
 | ⚛️ React | ████████░░ 80% | 🟡 In Progress |
 | 🍂 MongoDB | ████████░░ 80% | 🟡 In Progress |
-| 🐘 PostgreSQL | ██████████ 100% | 🟡 In Progress |
+| 🐘 PostgreSQL | ██████████ 100% | ✅ Learned |
 | ⚡ FastAPI | ██████████ 100% | ✅ Learned |
 | 🐍 Django | ██████████ 100% | ✅ Learned |
 | 🌶️ Flask | ██████████ 100% | ✅ Learned |
