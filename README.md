@@ -24,7 +24,7 @@ class HamzaOsama:
         self.passions    = ["Learning new things 📚", "Teaching people 🎓", "Building cool stuff 🔧"]
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+        print("Thanks for visiting my profile! Let's build something amazing together! 🚀")
 
 me = HamzaOsama()
 me.say_hi()
